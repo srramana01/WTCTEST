@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "section": 11,
+    "pageTitle": "OCM Training and Consulting | WinningThruChange",
+    "metaDescription": "Build practical change leadership skills with WinningThruChange. Explore OCM training, HCMBOK programmes, coaching, and organisational change consulting."
+  },
+  "header": {
+    "section": 1,
+    "nav": {
+      "organizations": "Organizations",
+      "professionals": "Professionals",
+      "institutions": "Institutions",
+      "catalystCircle": "The Catalyst Circle",
+      "insights": "Insights",
+      "about": "About"
+    },
+    "cta": "Speak With Us"
+  },
+  "hero": {
+    "section": 2,
+    "eyebrow": "Humanized Organizational Change Management",
+    "h1": "Change Doesn't Set You Apart. How You Lead It Does.",
+    "h1Highlight": "How You Lead It Does.",
+    "body": "We help HR and transformation leaders guide teams through new systems, processes, and roles. Our Organizational Change Management consulting, training, and coaching help people adopt new ways of working.",
+    "primaryCta": "Find Your Path",
+    "secondaryCta": "Speak With Us",
+    "supportingLine": "HCMBOK® training • Leadership development • Organisational change support"
+  },
+  "credibility": {
+    "section": 3,
+    "approved": false,
+    "logoAsset": null,
+    "label": "HCMBOK® training through an authorised HUCMI® training partner",
+    "supportingText": "Serving India, Sri Lanka, Bangladesh, the Middle East, and ASEAN."
+  },
+  "choosePath": {
+    "section": 4,
+    "h2": "What Do You Want to Achieve Through Change?",
+    "intro": "Choose the support that fits your role and the change you face.",
+    "cards": [
+      {
+        "heading": "For Organisations",
+        "body": "Help leaders and teams adopt new ways of working. Plan for the people impact of change, involve stakeholders, and build change capability within your organisation.",
+        "link": "Explore Organisational Support"
+      },
+      {
+        "heading": "For Professionals",
+        "body": "Build practical OCM skills for your current role or your next step. Explore HCMBOK® training, leadership development, and coaching for workplace challenges.",
+        "link": "Explore Learning Programmes"
+      },
+      {
+        "heading": "For Institutions",
+        "body": "Help students understand the human side of workplace change. Bring OCM into learning through workshops, case discussions, and applied activities.",
+        "link": "Explore Institutional Programmes"
+      }
+    ]
+  },
+  "challenge": {
+    "section": 5,
+    "h2": "A New System Is Only Part of the Change.",
+    "body": "New tools and plans change what people do. They can also change roles, routines, relationships, and trust. When those effects are missed, adoption can slow and teams can lose direction.",
+    "points": [
+      "People need clarity. What is changing, why does it matter, and what will it mean for me?",
+      "Managers need support. They must guide their teams while adapting to the change themselves.",
+      "Adoption needs follow-through. Training must connect with work, feedback, and support after launch."
+    ],
+    "closingLine": "OCM helps you plan for these human needs alongside the technical work."
+  },
+  "approach": {
+    "section": 6,
+    "h2": "Put People at the Centre of Change.",
+    "body": "Our approach to Humanized Organizational Change Management combines change management practice with attention to human behaviour. The aim is to understand what people need, involve them in the work, and help them adopt change.",
+    "steps": [
+      "Understand the impact. Look at the people, roles, and work affected by the change.",
+      "Build shared understanding. Listen to concerns, explain the purpose, and involve the right stakeholders.",
+      "Support new ways of working. Equip leaders and teams with relevant learning, tools, and support.",
+      "Learn and adjust. Use feedback and adoption measures to improve the approach."
+    ],
+    "link": "Explore Our Approach"
+  },
+  "programmes": {
+    "section": 7,
+    "h2": "Build OCM Skills You Can Use at Work.",
+    "intro": "Choose structured HCMBOK® learning or focused support for the people challenges in your role.",
+    "cards": [
+      {
+        "heading": "HCMBOK® Certification Training",
+        "body": "Explore HCMBOK® Level 1, Level 2, and HCMBOK® to Agile training. Choose a route that fits your experience and the change work you want to do.",
+        "link": "View HCMBOK Training"
+      },
+      {
+        "heading": "Change Leadership Development",
+        "body": "Build skills in stakeholder engagement, change communication, and leading people through uncertainty. Apply learning to situations you face at work.",
+        "link": "Explore Leadership Development"
+      },
+      {
+        "heading": "Coaching for Workplace Change",
+        "body": "Work through a specific challenge, such as a new leadership role, a difficult stakeholder conversation, or a team adapting to change.",
+        "link": "Explore Coaching"
+      }
+    ],
+    "helperLine": "Not sure where to start? Speak with us about your role and goals."
+  },
+  "consulting": {
+    "section": 8,
+    "h2": "Bring the People Side Into Your Change Plan.",
+    "body": "Whether you are introducing technology, changing processes, or reshaping roles, your plan needs to account for how people will work differently. We help you identify that impact and plan practical support for adoption.",
+    "supportAreas": [
+      "Change impact and readiness. Identify affected groups, likely concerns, and gaps in support.",
+      "Stakeholder engagement and communication. Plan who to involve, what they need to know, and how feedback will shape the work.",
+      "Leader and team capability. Prepare managers to hold useful conversations and support their teams through change.",
+      "Adoption and reinforcement. Define signs of progress and use feedback to guide ongoing support."
+    ],
+    "cta": "Discuss Your Change Initiative"
+  },
+  "evidence": {
+    "section": 9,
+    "h2": "See How the Learning Connects With Work.",
+    "intro": "Explore participant feedback and examples of learning put into practice.",
+    "fallbackHeading": "Learning in Practice"
+  },
+  "founder": {
+    "section": 10,
+    "h2": "Meet S. R. Ramana",
+    "roleLine": "Founder, WinningThruChange® | OCM Trainer, Coach, and Consultant",
+    "body": "Ramana brings experience in enterprise systems, programme delivery, and organisational change. His work focuses on how people understand change, respond to it, and build the skills to lead it.",
+    "secondParagraph": "Through WinningThruChange, he helps professionals connect OCM concepts with workplace practice and supports organisations in planning for the human impact of change.",
+    "statementApproved": false,
+    "statement": "My focus is simple: help you lead change with care, clarity, and practical skill.",
+    "link": "Learn More About Ramana"
+  },
+  "community": {
+    "section": 11,
+    "enrolmentOpen": false,
+    "eyebrow": "The WinningThruChange Community",
+    "h2": "Keep Learning as Your Leadership Role Grows.",
+    "body": "The Catalyst Circle brings professionals together to develop their approach to leadership and change. Explore a community built around shared learning, reflection, and applying ideas at work.",
+    "progression": "Leadership Integration System → Leadership Integration Mastery → Leadership Integration Transcendence",
+    "stages": [
+      "Leadership Integration System",
+      "Leadership Integration Mastery",
+      "Leadership Integration Transcendence"
+    ],
+    "supportingLine": "Together, these stages form the Leadership Integration Odyssey.",
+    "cta": "Explore The Catalyst Circle",
+    "ctaEnrolmentClosed": "Enquire About The Catalyst Circle"
+  },
+  "insights": {
+    "section": 12,
+    "h2": "Practical Ideas for the Human Side of Change.",
+    "intro": "Explore OCM, leadership, and the workplace questions that matter when people face change.",
+    "sectionLink": "View All Insights",
+    "editorialBriefs": [
+      {
+        "title": "How to Lead Former Peers After a Promotion",
+        "summary": "Set expectations, rebuild working relationships, and make space for honest conversations."
+      },
+      {
+        "title": "What Is Humanized Organizational Change Management?",
+        "summary": "Understand how a people-centred approach shapes engagement, learning, and adoption."
+      },
+      {
+        "title": "How Managers Can Support Teams During Restructuring",
+        "summary": "Communicate what you know, make room for concerns, and keep support close to the work."
+      }
+    ]
+  },
+  "faq": {
+    "section": 13,
+    "h2": "Your Questions About OCM and Working With Us",
+    "items": [
+      {
+        "question": "What is Organizational Change Management?",
+        "answer": "Organizational Change Management, or OCM, is a structured approach to helping people adopt changes in how they work. It includes understanding impacts, engaging stakeholders, communicating clearly, building skills, and supporting adoption over time."
+      },
+      {
+        "question": "Who are WinningThruChange programmes for?",
+        "answer": "We work with professionals, leaders, organisations, and educational institutions. The right programme depends on your role, experience, and goals. Each programme page explains who it serves and what it covers."
+      },
+      {
+        "question": "What is the difference between OCM and project management?",
+        "answer": "Project management coordinates the work needed to deliver a change. OCM focuses on helping people understand, adopt, and sustain the new ways of working. Both need to work together."
+      },
+      {
+        "question": "How do I choose an HCMBOK training route?",
+        "answer": "Start with your current experience and learning goals. Review the HCMBOK training pages, then speak with us if you need help comparing the routes and their current requirements."
+      },
+      {
+        "question": "Can you support an organisation or an educational institution?",
+        "answer": "Yes. Tell us about your audience, the change or learning need, and the timing. We can discuss the scope and suggest a suitable next step."
+      }
+    ]
+  },
+  "closing": {
+    "section": 14,
+    "h2": "What Change Are You Preparing to Lead?",
+    "body": "Tell us about your role, your goals, or the change your organisation is planning. We will help you identify a suitable next step.",
+    "cta": "Speak With Us",
+    "form": {
+      "introduction": "A few details will help us understand what you need.",
+      "labels": {
+        "name": "Name",
+        "email": "Email",
+        "enquiringAs": "I am enquiring as",
+        "message": "What would you like help with?",
+        "organisation": "Organisation or institution",
+        "phone": "Phone"
+      },
+      "enquiringAsOptions": {
+        "organisation": "Organisation",
+        "professional": "Professional",
+        "institution": "Institution",
+        "community": "Community"
+      },
+      "submitLabel": "Send Enquiry",
+      "privacyText": "We use these details to respond to your enquiry. Read our Privacy Policy.",
+      "privacyLinkText": "Privacy Policy",
+      "successMessage": "Thank you. Your enquiry has been received.",
+      "successSupport": "We will reply using the email address you provided.",
+      "errorMessage": "Your enquiry was not sent. Please try again or contact us by email."
+    }
+  },
+  "footer": {
+    "section": 14,
+    "brandName": "WinningThruChange®",
+    "tagline": "Humanized Organizational Change Management",
+    "description": "Training, coaching, and consulting for professionals, organisations, and institutions.",
+    "groups": {
+      "explore": {
+        "label": "Explore",
+        "links": {
+          "organizations": "Organizations",
+          "professionals": "Professionals",
+          "institutions": "Institutions",
+          "catalystCircle": "The Catalyst Circle"
+        }
+      },
+      "learn": {
+        "label": "Learn",
+        "links": {
+          "insights": "Insights",
+          "about": "About",
+          "contact": "Contact"
+        }
+      },
+      "legal": {
+        "label": "Legal",
+        "links": {
+          "privacyPolicy": "Privacy Policy",
+          "terms": "Terms and Conditions"
+        }
+      }
+    },
+    "territoryLine": "Serving India, Sri Lanka, Bangladesh, the Middle East, and ASEAN."
+  }
+}

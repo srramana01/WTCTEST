@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+coverage/
+test-results/
+playwright-report/
+# Source documents: never reformatted, so copy is never changed by tooling.
+docs/
+prompts/
+CLAUDE.md
+README.md
+content/

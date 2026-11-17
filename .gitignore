@@ -1,0 +1,20 @@
+node_modules/
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Uploaded images live outside the repo (UPLOADS_DIR); ignore any local copy.
+uploads/
+
+# Test and tool output
+coverage/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.log
